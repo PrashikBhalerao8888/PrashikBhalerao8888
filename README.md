@@ -1,4 +1,7 @@
-👋 Hi, I’m Prashik Bhalerao
+<h1 style="font-size: 56px; font-weight: 800;">
+  👋 Hi, I’m Prashik Bhalerao
+</h1>
+
 
 💻 Data Engineer | ⚡ PySpark | 🧱 Databricks | ☁️ AWS | 🧮 SQL
 
